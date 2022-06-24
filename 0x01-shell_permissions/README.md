@@ -1,1 +1,1 @@
-Shell Basics Module
+Shell Permisions Module
